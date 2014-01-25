@@ -26,3 +26,9 @@ I have implented a library in JavaScript to generate this header, quite useful f
 '''
 
 This library uses code from Paul Johnston,  JF Walker and aardwulf systems.
+
+## LICENSE
+
+> I release my code under BSD, but please take care of other ones' licenses.
+
+[license](http://rvr.typepad.com/wind/2005/07/wsse_for_javasc.html?cid=8847480#comment-6a00d8345369a369e200d8345ca0ef53ef)
